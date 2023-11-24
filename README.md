@@ -5,7 +5,14 @@ Import python files over http!
 ```python
 from himport import himport
 
-h = himport("https://raw.githubusercontent.com/BlackIQ/Hello-World/main/Python/examples/python.py", "h")
+h = himport("https://raw.githubusercontent.com/combogangreal/HImport/main/examples/test.py", "h")
+
+h.test()
+```
+
+Output
+```
+This is a test!
 ```
 
 # Install
